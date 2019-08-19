@@ -1,0 +1,12 @@
+﻿- Création de l'image test.gif avec piskel
+
+- Création du programme personnage.py
+	- Création de la fonction move et des fonctions gauche, droite, haut et bas (déplacements)
+	- Insertion de l'image test.gif
+
+-Création du programme personnage2.py
+	- Création de la fonction move et des fonctions gauche, droite, haut et bas (déplacements)
+	- Insertion de l'image test.gif
+	- Création d'un damier blanc compatible avec les déplacements de l'image
+
+

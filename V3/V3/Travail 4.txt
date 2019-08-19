@@ -1,0 +1,33 @@
+﻿-Modification des Décors:
+	-Mise en place de liste des différentes images.
+	-Libération de lignes :
+		Insertion des termes numéro afin de retrouver l'image dans la liste.
+		Une ligne de code pour créer la map (une seule condition).
+
+-Réalisation des collisions:
+	-Création de la fonction Mur()
+	-Modification de la fonction Mouvement(a,b)
+		
+-Programme des transitions (en cours de fonctionnement)
+
+-Implémentation des personnages :
+	- Magicien (décor 1 et 2)
+	- Villageois (décor 1)
+	- Gardes (décor 1)
+
+-Implémentation des objets:
+	- Clé (décor 4)
+	- Bouclier (décor 3)
+	- Casque (décor 3)
+	- Epée angélique (décor 2)
+	- Epée diabolique (décor 2)
+	- Fiole Bleu (décor 2)
+	- Fiole Jaune (décor 2)
+	- Fiole Rouge (décor 2)
+	- Fiole Verte (décor 2)
+	- Note (décor 4)
+	- Trinité cyan (décor 3)
+	- Trinité jaune (décor 3)
+	- Trinité violet (décor 3)
+
+-Ecriture du cahier des charges v2

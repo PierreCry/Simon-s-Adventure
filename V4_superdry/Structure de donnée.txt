@@ -1,0 +1,11 @@
+fen : nom de la fenetre
+can : nom du canvas
+
+Listes : M (contenant les matrices des maps)
+	 d (contenant les éléments de décor)
+	 MUR (contenant les éléments du décor infranchissable)
+
+Variables : x et y (coordonnées du personnages)
+	    i et j (indices dans les matrices)
+	    img (images)
+	    cptmap (indice de décor)

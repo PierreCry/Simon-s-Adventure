@@ -1,0 +1,76 @@
+﻿- Création des personnages
+	- Création de l'image Simon 1.gif avec piskel
+	- Création de l'image Simon 2.gif avec piskel
+	- Création de l'image Garde.gif avec piskel
+	- Création de l'image Magicien.gif avec piskel
+	- Création de l'image Villageois.gif avec piskel
+	
+- Création d'objets
+	- Création de l'image Clé.gif avec piskel	
+	- Création de l'image Bouclier.gif avec piskel
+	- Création de l'image Casque.gif avec piskel
+	- Création de l'image Epée angélique.gif avec piskel
+	- Création de l'image Epée diabolique.gif avec piskel
+	- Création de l'image Fiole Bleu.gif avec piskel
+	- Création de l'image Fiole Jaune.gif avec piskel
+	- Création de l'image Fiole Rouge.gif avec piskel
+	- Création de l'image Fiole Verte.gif avec piskel
+	- Création de l'image Note.gif avec piskel
+	- Création de l'image Trinité cyan.gif avec piskel
+	- Création de l'image Trinité jaune.gif avec piskel
+	- Création de l'image Trinité violet.gif avec piskel
+
+- Création du programme objet.py (en cours de fonctionnement)
+	- Création de la fonction objet
+	- Création de la fonction sortie
+	- Création de la fonction map1
+
+- Création des décors
+	- Les éléments du décor
+		- 01 herbe
+		- 02 chemin horizontal
+		- 03 chemin vertical
+		- 04 gauche-bas
+		- 05 droite-bas
+		- 06 droite-haut
+		- 07 gauche-haut
+		- 08 arbre
+		- 09 eau
+		- 10 sable
+		- 101 (sol rocheux)
+		- 102 (chemin horizontal)
+		- 103 (chemin vertical)
+		- 104 (gauche-bas)
+		- 105 (droite-bas)
+		- 106 (droite-haut)
+		- 107 (gauche-haut)
+		- 108 (rocher)
+		- 109 (eau sombre)
+		- 111 (chemin horizontal eau)
+		- 112 (chemin vertical eau)
+		- 113 (droite-bas eau)
+		- 114 (droite-haut eau)
+		- 115 (gauche-bas eau)
+		- 116 (gauche-haut eau)
+		- 117 (gauche-bas-droite)
+		- 118 (gauche-haut-droite)
+		- 119 (haut-bas-droite)
+		- 121 (haut-bas-gauche)
+		- 122 (gauche-droite-bas eau)
+		- 123 (gauche-droite-haut eau)	
+		- 124 (haut-bas-droite eau)
+		- 125 (haut-bas-gauche eau)
+
+	- La création du décor:
+		- Création du programme Décor 01 (Forêt).py
+		- Création du programme Décor 02 (Grotte).py
+		- Création du programme Décor 03 (Grotte2).py
+		- Création du programme Décor 04 (Grotte3).py
+
+- Ecriture du Scénario:
+	- Ecriture des dialogues
+	- Ecriture des choix
+	- Ecriture des missions
+	- Ecriture des différentes fins
+
+- Création du programme testTransition (en cours de fonctionnement)

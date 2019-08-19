@@ -1,0 +1,13 @@
+Création d'une liste M de matrice avec les décors à l'intérieur
+
+Création de la liste d avec tout les éléments de décors
+
+Création de l'image "34 (entrée).gif" avec piskel
+
+Modification des décors :
+	- Création des fonctions : Map1, Map2, Map3, Map4 plaçant les objets 
+	et personnages au sein de la carte correspondantes.
+	- Création de la fonction décor qui créer les différents décors
+	- Création de la fonction transition qui permet de passer de la map1 aux autres map
+
+Modification de la fonction collision

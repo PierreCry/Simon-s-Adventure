@@ -1,0 +1,51 @@
+﻿- Création du personnage
+	- Création de l'image profil gauche.gif avec piskel
+	- Création de l'image profil droite.gif avec piskel
+
+- Création d'objets
+	- Création de l'image cle.gif avec piskel
+
+- Création du programme objet.py
+	- Création de la fonction objet
+	- Création de la fonction sortie
+	- Création de la fonction map1
+
+- Création des décors
+	- Les éléments du décor
+		- 01 herbe
+		- 02 chemin horizontal
+		- 03 chemin vertical
+		- 04 gauche-bas
+		- 05 droite-bas
+		- 06 droite-haut
+		- 07 gauche-haut
+		- 08 arbre
+		- 09 eau
+		- 10 sable
+		- 11 (sol rocheux)
+		- 12 (chemin horizontal)
+		- 13 (chemin vertical)
+		- 14 (gauche-bas)
+		- 15 (droite-bas)
+		- 16 (droite-haut)
+		- 17 (gauche-haut)
+		- 18 (rocher)
+		- 19 (eau sombre)
+		- cheminheau
+		- cheminveau
+		- dbeau
+		- dheau
+		- doublevgbd
+		- doublevgdbeau
+		- doublevgdh
+		- doublevgdheau
+		- doublevhbd
+		- doublevhbdeau
+		- doublevhbg
+		- doublevhbgeau
+		- gbeau
+		- gheau
+	
+	- La création du décor:
+		- Création du programme Décor 01 (Forêt).py
+		- Création du programme Décor 02 (Grotte).py
